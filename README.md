@@ -26,10 +26,6 @@
 - 📊 Análisis de datos  
 - 🗄️ Manejo de bases de datos (SQL & PostgreSQL)  
 
----
-
-### 🎶 Mi canción favorita
-[![Spotify](https://img.shields.io/badge/Spotify-Reproducir-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/2ud5ukcAgwOki5PyE53mPl?autoplay=true)
 
 ---
 
