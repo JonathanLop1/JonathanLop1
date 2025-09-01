@@ -13,7 +13,7 @@
 
 ### 🚀 Tecnologías y Herramientas
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,spring,python,js,ts,nodejs,express,react,angular,vue,html,css,bootstrap,tailwind,mysql,postgresql,mongodb,git,github,powerbi&perline=8" />
+  <img src="https://skillicons.dev/icons?i=java,spring,python,js,nodejs,express,react,angular,vue,html,css,bootstrap,tailwind,mysql,postgresql,git,github,powerbi&perline=8" />
 </p>
 
 ---
