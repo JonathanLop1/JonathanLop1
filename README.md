@@ -1,3 +1,4 @@
+
 <h1 align="center">Hola 👋, soy Jonathan López</h1>
 <h3 align="center">Desarrollador Web | Analista de Datos</h3>
 
@@ -8,14 +9,6 @@
 - Power BI 📊
 - Análisis de Datos con Python & SQL 🔎
 - Frameworks modernos (React ⚛️, Angular 🅰️, Vue 🖖)
-
----
-
-### 📊 Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JonathanLop1&show_icons=true&theme=radical" alt="stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JonathanLop1&theme=radical" alt="streak"/>
-</p>
 
 ---
 
