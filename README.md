@@ -11,13 +11,6 @@
 
 ---
 
-### 🚀 Tecnologías y Herramientas
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,python,typescript,javascript,express,nodejs,react,angular,reactnative,powerbi,github&perline=6" />
-</p>
-
----
-
 ### 📊 Estadísticas de GitHub
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JonathanLop1&show_icons=true&theme=radical" alt="stats"/>
