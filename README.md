@@ -21,8 +21,6 @@ Con experiencia en <b>liderazgo técnico</b>, trabajo en equipo y comunicación 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Security-2E7D32?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-Security-blue?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Hexagonal%20Architecture-000000?style=for-the-badge"/>
 </p>
 
