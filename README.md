@@ -51,6 +51,27 @@ Con experiencia en <b>liderazgo técnico</b>, trabajo en equipo y comunicación 
 
 ---
 
+## 🤖 Automatización de Procesos Empresariales
+<p align="center">
+Especialista en <b>automatización de procesos para empresas</b> utilizando <b>n8n</b>, enfocada en la reducción de tareas manuales, optimización del tiempo operativo y mejora de la eficiencia interna.
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Process%20Automation-Enterprise-blue?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/API%20Integration-REST-green?style=for-the-badge"/>
+</p>
+
+<p align="center">
+✔ Automatización de flujos repetitivos<br/>
+✔ Integración entre sistemas (APIs, Webhooks, Bases de Datos)<br/>
+✔ Notificaciones automáticas (Email, WhatsApp, Slack, etc.)<br/>
+✔ Sincronización de datos entre plataformas<br/>
+✔ Ahorro de tiempo y reducción de errores operativos
+</p>
+
+---
+
 ## 👥 Liderazgo & Soft Skills
 <p align="center">
   🧭 Liderazgo técnico &nbsp;•&nbsp;
