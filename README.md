@@ -2,10 +2,6 @@
   Hola 👋, soy Jonathan López
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Senior+Full+Stack+Web+%26+Mobile+Developer;Java+%7C+Spring+Boot+%7C+Flutter;Arquitectura+Limpia+%7C+Seguridad+JWT;Construyendo+software+para+producción" />
-</p>
-
 ---
 
 ## 🚀 Perfil Profesional
