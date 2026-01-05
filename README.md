@@ -67,8 +67,8 @@ Con experiencia en <b>liderazgo técnico</b>, trabajo en equipo y comunicación 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=TU_USUARIO&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JonathanLop1&show_icons=true&theme=radical&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=JonathanLop1&theme=radical&hide_border=true" height="170"/>
 </p>
 
 ---
