@@ -1,97 +1,108 @@
-<h1 align="center">
-  Hola 👋, soy Jonathan López
-</h1>
+<h1 align="center">👋 Hola, soy Jonathan López</h1>
+<h3 align="center">Developer Junior · Backend · Web · Mobile · Automatización · IA</h3>
 
----
-
-## 🚀 Perfil Profesional
 <p align="center">
-Desarrollador <b>Full Stack Web & Mobile</b> con experiencia en la construcción de <b>aplicaciones seguras, escalables y orientadas a producción</b>.  
-Especializado en <b>Java & Spring Boot</b>, aplicando <b>Arquitectura Hexagonal</b>, <b>Clean Architecture</b> y <b>seguridad con JWT</b>.  
-Con experiencia en <b>liderazgo técnico</b>, trabajo en equipo y comunicación efectiva.
+  <a href="mailto:jonathandres0309@gmail.com">📧 Email</a> •
+  <a href="https://github.com/JonathanLop1">💻 GitHub</a> •
+  <span>📍 Barranquilla, Colombia</span>
 </p>
 
 ---
 
-## 🧠 Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hexagonal%20Architecture-000000?style=for-the-badge"/>
-</p>
+## 🚀 Sobre mí
+Desarrollador Junior orientado a la creación de soluciones tecnológicas basadas en **backend robusto, desarrollo web y mobile, automatización de procesos e integración de inteligencia artificial**.
+
+Tengo experiencia desarrollando **aplicaciones web, móviles y APIs REST**, aplicando buenas prácticas de programación y metodologías ágiles como **Scrum**. Me apasiona crear soluciones que aporten valor real, optimicen procesos y escalen correctamente.
 
 ---
 
-## 🎨 Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-</p>
+## 🧠 Stack Tecnológico
+
+### 🔹 Lenguajes y Frameworks
+![JavaScript](https://img.shields.io/badge/JavaScript-000?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-000?style=for-the-badge&logo=typescript)
+![Java](https://img.shields.io/badge/Java-000?style=for-the-badge&logo=java)
+![Python](https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python)
+![Kotlin](https://img.shields.io/badge/Kotlin-000?style=for-the-badge&logo=kotlin)
+
+![Node.js](https://img.shields.io/badge/Node.js-000?style=for-the-badge&logo=node.js)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-000?style=for-the-badge&logo=spring)
+![Angular](https://img.shields.io/badge/Angular-000?style=for-the-badge&logo=angular)
+![Flutter](https://img.shields.io/badge/Flutter-000?style=for-the-badge&logo=flutter)
 
 ---
 
-## 📱 Mobile
-<p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Android-Native-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-</p>
+### 🔹 Frontend & Mobile
+![HTML5](https://img.shields.io/badge/HTML5-000?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-000?style=for-the-badge&logo=css3)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000?style=for-the-badge&logo=tailwind-css)
+![Android](https://img.shields.io/badge/Android-000?style=for-the-badge&logo=android)
 
 ---
 
-## 🗄️ Bases de Datos & DevOps
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
-</p>
+### 🔹 Backend, DB & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-000?style=for-the-badge&logo=mysql)
+![Docker](https://img.shields.io/badge/Docker-000?style=for-the-badge&logo=docker)
+![Azure](https://img.shields.io/badge/Azure-000?style=for-the-badge&logo=microsoft-azure)
+![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git)
 
 ---
 
-## 🤖 Automatización de Procesos Empresariales
-<p align="center">
-Especialista en <b>automatización de procesos para empresas</b> utilizando <b>n8n</b>, enfocada en la reducción de tareas manuales, optimización del tiempo operativo y mejora de la eficiencia interna.
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/n8n-Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Process%20Automation-Enterprise-blue?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/API%20Integration-REST-green?style=for-the-badge"/>
-</p>
-
-<p align="center">
-✔ Automatización de flujos repetitivos<br/>
-✔ Integración entre sistemas (APIs, Webhooks, Bases de Datos)<br/>
-✔ Notificaciones automáticas (Email, WhatsApp, Slack, etc.)<br/>
-✔ Sincronización de datos entre plataformas<br/>
-✔ Ahorro de tiempo y reducción de errores operativos
-</p>
+### 🤖 IA y Automatización
+- Prompting avanzado
+- Creación y gestión de agentes de IA
+- Automatización de procesos
+- Integración de IA en flujos de trabajo
+- Uso profesional de herramientas como ChatGPT, Claude y Blackbox
 
 ---
 
-## 👥 Liderazgo & Soft Skills
-<p align="center">
-  🧭 Liderazgo técnico &nbsp;•&nbsp;
-  🧩 Trabajo en equipo &nbsp;•&nbsp;
-  🗣️ Comunicación clara &nbsp;•&nbsp;
-  🚀 Enfoque en soluciones reales
-</p>
+## 📂 Proyectos Destacados
+
+### 📱 MyFinancesApp
+Aplicación **Android** para la gestión de finanzas personales.
+
+- Arquitectura **MVVM**
+- Persistencia con **Room / SQLite**
+- Cálculo automático de balances
+- UI con Material Design
+
+🔗 Repositorio:  
+👉 https://github.com/JonathanLop1/MyFinancesApp
 
 ---
 
-## 🌍 Intereses
-<p align="center">
-  🌱 Impacto social con tecnología &nbsp;•&nbsp;
-  ⚡ Sistemas escalables &nbsp;•&nbsp;
-  🤖 Automatización & Bots &nbsp;•&nbsp;
-  🗄️ Arquitectura de datos
-</p>
+### 🌍 NearMe
+Plataforma web para conectar usuarios con comercios cercanos.
+
+- Backend con **Node.js + Express**
+- Mapas interactivos con **Leaflet**
+- Carga masiva de productos con Excel
+- Autenticación con tokens
+- UI moderna con **Tailwind CSS**
+
+🔗 Repositorio:  
+👉 https://github.com/JonathanLop1/nearme.git
 
 ---
 
-<p align="center">
-✨ <i>Siempre abierto a colaborar en proyectos desafiantes y de alto impacto.</i> 🚀
-</p>
+## 🎓 Educación
+**Developer Junior – Riwi**  
+📍 Barranquilla, Colombia  
+🗓️ Marzo 2025 – En curso
+
+---
+
+## 🌐 Idiomas
+- Español: Nativo  
+- Inglés: A2
+
+---
+
+## 📫 Contáctame
+📧 Email: jonathandres0309@gmail.com  
+💻 GitHub: https://github.com/JonathanLop1
+
+---
+
+⭐ Siempre abierto a aprender, colaborar y construir soluciones tecnológicas de alto impacto.
