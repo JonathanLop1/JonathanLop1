@@ -89,7 +89,7 @@ Plataforma web para conectar usuarios con comercios cercanos.
 ## 🎓 Educación
 **Developer Junior – Riwi**  
 📍 Barranquilla, Colombia  
-🗓️ Marzo 2025 – En curso
+🗓️ Marzo 2025 – Abril 2026
 
 ---
 
